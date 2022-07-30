@@ -1,0 +1,4 @@
+﻿  8th problem.cpp
+C:\Users\Mihadul Islam\Desktop\problem-solve-with-c-\8th problem\8th problem\8th problem.cpp(10,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mihadul Islam\Desktop\problem-solve-with-c-\8th problem\8th problem\8th problem.cpp(11,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  8th problem.vcxproj -> C:\Users\Mihadul Islam\Desktop\problem-solve-with-c-\8th problem\x64\Debug\8th problem.exe
